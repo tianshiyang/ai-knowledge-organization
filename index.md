@@ -18,8 +18,10 @@ features:
     details: 收纳日常高频使用的 AI 工具、MCP、Skills、Rules 与工作流实践。
   - title: AI方法与策略
     details: 整理 RAG、Agent、提示词工程、评测优化等核心方法论与架构思路。
+  - title: OpenClaw技能
+    details: 收录 ClawHub 上的 OpenClaw 相关 Skills，涵盖运维、安全、安装配置等分类。
   - title: 可持续迭代
-    details: 从“记录”升级为“知识体系”，便于持续补充、检索和复用。
+    details: 从"记录"升级为"知识体系"，便于持续补充、检索和复用。
 ---
 
 # 首页
