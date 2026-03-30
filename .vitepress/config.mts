@@ -30,6 +30,11 @@ export default defineConfig({
           { text: '总览', link: '/AI方法与策略/' },
           { text: 'RAG', link: '/AI方法与策略/RAG/' },
           { text: 'Agent', link: '/AI方法与策略/Agent/' },
+          { text: 'Agent / 面试题总览', link: '/AI方法与策略/Agent/面试题总览/' },
+          { text: 'Agent / 常见架构', link: '/AI方法与策略/Agent/常见架构/' },
+          { text: 'Agent / Self-Ask', link: '/AI方法与策略/Agent/常见架构/Self-Ask' },
+          { text: 'Agent / Prompt与推理策略', link: '/AI方法与策略/Agent/常见架构/Prompt与推理策略' },
+          { text: 'Agent / Python与LangChain1.0', link: '/AI方法与策略/Agent/Python与LangChain1.0/' },
           { text: '提示词工程', link: '/AI方法与策略/提示词工程/' },
           { text: '评测与优化', link: '/AI方法与策略/评测与优化/' }
         ]
