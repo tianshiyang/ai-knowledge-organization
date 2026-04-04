@@ -1,5 +1,5 @@
-node_modules
-package-lock.json
-.vitepress/cache/
-dist/
+node_modules/
 .vitepress/dist/
+.vitepress/cache/
+.DS_Store
+*.log
