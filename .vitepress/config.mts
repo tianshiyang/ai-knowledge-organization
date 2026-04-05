@@ -8,6 +8,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
+      { text: 'Claude Code', link: '/Claude Code/' },
       { text: 'AI工具集合', link: '/AI工具集合/' },
       { text: 'AI方法与策略', link: '/AI方法与策略/' },
       { text: 'OpenClaw技能', link: '/OpenClaw技能/' },
@@ -15,6 +16,16 @@ export default defineConfig({
     ],
 
     sidebar: [
+      {
+        text: 'Claude Code',
+        items: [
+          { text: '总览', link: '/Claude Code/' },
+          { text: '快速上手', link: '/Claude Code/快速上手/' },
+          { text: '提效实战', link: '/Claude Code/提效实战/' },
+          { text: '高级功能', link: '/Claude Code/高级功能/' },
+          { text: '工具对比与生态', link: '/Claude Code/工具对比与生态/' }
+        ]
+      },
       {
         text: 'AI工具集合',
         items: [

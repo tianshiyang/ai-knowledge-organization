@@ -7,6 +7,9 @@ hero:
   tagline: "把零散经验沉淀成可复用的方法与文档。"
   actions:
     - theme: brand
+      text: Claude Code
+      link: /Claude Code/
+    - theme: alt
       text: AI工具集合
       link: /AI工具集合/
     - theme: alt
@@ -17,6 +20,8 @@ hero:
       link: /AI前沿动态/
 
 features:
+  - title: Claude Code
+    details: Anthropic 终端原生 AI 编程代理的完整使用指南：快速上手、提效实战、Hooks/子代理/Headless 高级功能、工具对比。
   - title: AI工具集合
     details: 收纳日常高频使用的 AI 工具、MCP、Skills、Rules 与工作流实践。
   - title: AI方法与策略
@@ -31,8 +36,9 @@ features:
 
 # 首页
 
-这个站点用于系统化整理我对 AI 的理解，分为四条主线：
+这个站点用于系统化整理我对 AI 的理解，分为五条主线：
 
+- **Claude Code**：Anthropic 终端原生编程代理的完整使用指南，重点覆盖提效实战。
 - **AI工具集合**：偏实践与生产力，记录工具、配置、规则和工作流。
 - **AI方法与策略**：偏方法论与架构，记录 AI 系统设计、模式与策略。
 - **OpenClaw技能**：收录 ClawHub 生态中的 OpenClaw 技能，按场景分类索引。
